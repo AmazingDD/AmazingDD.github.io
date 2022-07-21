@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yu Di
-    tagline: Data Scientist
+    tagline: Machine Learning Engineer | Master of IT in Business in SMU
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,17 +50,17 @@ career-profile:
 
       Hope to apply machine learning methods on more fields in the real-world.
 education:
-    - degree: MSc in IT for Business
+    - degree: Master of IT in Business
       university: Singapore Management University
       time: 2021 - 2022
       details: |
 
-    - degree: MSc in Management Science
+    - degree: Master of Management Science
       university: Shanghai University of Finance and Economics
       time: 2017 - 2019
       details: |
 
-    - degree: BSc in Computer Science
+    - degree: Master of Computer Science
       university: Shanghai University of Finance and Economics
       time: 2013 - 2017
       details: |
