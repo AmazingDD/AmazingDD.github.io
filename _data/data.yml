@@ -50,20 +50,29 @@ career-profile:
 
       Hope to apply machine learning methods on more fields in the real-world.
 education:
+    - degree: PhD candidate
+      university: Zhejiang University
+      time: 2023 - Present
+      details: |
+        - Edge Intelligence, Spilt Learning, Brain-Inspired Computing
+
     - degree: Master of IT in Business
       university: Singapore Management University
       time: 2021 - 2022
       details: |
+        - Data Analysis, Machine Learning, Time Series Prediction
 
     - degree: Master of Management Science
       university: Shanghai University of Finance and Economics
       time: 2017 - 2019
       details: |
+        - Recommender System, Deep Learning
 
     - degree: Master of Computer Science
       university: Shanghai University of Finance and Economics
       time: 2013 - 2017
       details: |
+        - Web Designing, Database Developement
 
 experiences:
     - role: Machine Learning Engineer Intern
@@ -130,4 +139,4 @@ skills:
         level: 85%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by Yu Di
+    Designed by Yu Di
